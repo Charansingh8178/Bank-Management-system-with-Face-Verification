@@ -15,3 +15,6 @@ This Is a bank management system which uses face verification to open.
 
 Make sure to have all the Files in repository in one folder.
 
+How It Works:-
+Bsically it uses DeepFace library to firstly it will click your Picture then later on it will use live Face Detection to match whether its the same user or not.
+If the user matches then it runs the bank management system file.
